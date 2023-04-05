@@ -1,9 +1,12 @@
 <h1 align="center">
  <img src="https://gcdnb.pbrd.co/images/Mcb4Ibk2QhLA.png?o=1" />
 </h1>
-<h2 align="center" ><i>Hey!👋 Tech Wizards, ARNAV this side.</i></h2>
+<h2 align="center" ><i><img src="https://i.gifer.com/origin/1d/1d9c8cee984a3fb223a410768b1bff31_w200.gif" width="60" 
+     height="60"/>Hey!👋 Tech Wizards, ARNAV this side.<img src="https://i.gifer.com/origin/1d/1d9c8cee984a3fb223a410768b1bff31_w200.gif" width="60" 
+     height="60"/></i></h2>
 <h3 align="center"><i>I'm a professional caffeine consumer who spends most of their time talking to computers.</small></i>
 <!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">--> 
+
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=arnavhavoc&label=Profile%20views&color=0e75b6&style=flat" alt="arnavhavoc" /></p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavhavoc" alt="arnavhavoc" /></a> </p>-->
