@@ -14,6 +14,7 @@
 <p style="text-align:center"><b>Connect with me:<b></p>
 <p align="centre">
 <a href="https://linkedin.com/in/arnavhavoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavhavoc" height="30" width="40" /></a>
+<a href="https://instagram.com/whokilledarnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 </p>
 
 <p style="text-align:center">Languages and Tools:</p>
