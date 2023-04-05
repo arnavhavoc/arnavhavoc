@@ -1,21 +1,15 @@
 <h1 align="center">
  <img src="https://gcdnb.pbrd.co/images/Mcb4Ibk2QhLA.png?o=1" />
 </h1>
-<h1 align="center">Hi 👋, I'm arnavhavoc</h1>
-<h3 align="center">I'm a professional caffeine consumer who spends most of their time talking to computers.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h2 align="center" ><i>Hey!👋 Tech Wizards, ARNAV this side.</i></h2>
+<h3 align="center"><i>I'm a professional caffeine consumer who spends most of their time talking to computers.</small></i>
+<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">--> 
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=arnavhavoc&label=Profile%20views&color=0e75b6&style=flat" alt="arnavhavoc" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavhavoc&label=Profile%20views&color=0e75b6&style=flat" alt="arnavhavoc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavhavoc" alt="arnavhavoc" /></a> </p>
-
-- 🔭 I’m currently working on **OpenAI API**
-
-- 🌱 I’m currently learning **Witchcraft!**
-
-- 📫 How to reach me **arnav.documentation@gmail.com**
-
-- ⚡ Fun fact **You will not get fired as long as your code still works!**
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavhavoc" alt="arnavhavoc" /></a> </p>-->
+<p style="text-align:center"><i>
+<centre>Welcome to my Github! Here, you will find a showcase of my skills and experience.<br>As you browse through my projects and accomplishments, I hope you will gain insight into my passion for creating efficient solutions to real-world problems. I am dedicated to continuously learning and growing in my field, and I am excited to share my journey with you. Thank you for visiting and please don't hesitate to reach out with any questions or inquiries.</centre>
+ <p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
