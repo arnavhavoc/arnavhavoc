@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://gcdnb.pbrd.co/images/Mcb4Ibk2QhLA.png?o=1" />
+ <img src="https://i.postimg.cc/rs720mdZ/Screenshot-2023-07-05-184115.png" />
 </h1>
 <h2 align="center" ><i><img src="https://i.gifer.com/origin/1d/1d9c8cee984a3fb223a410768b1bff31_w200.gif" width="60" 
      height="60"/>Hey!👋 Tech Wizards, ARNAV this side.<img src="https://i.gifer.com/origin/1d/1d9c8cee984a3fb223a410768b1bff31_w200.gif" width="60" 
